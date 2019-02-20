@@ -4,6 +4,7 @@
 .packages
 .dart_tool/
 .pub/
+.gradle/
 build/
 ios/.generated/
 packages
